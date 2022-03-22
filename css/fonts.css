@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: 'Calibre';
+    src: url('../fonts/Calibre-Thin.eot');
+    src: url('../fonts/Calibre-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Calibre-Thin.woff2') format('woff2'),
+        url('../fonts/Calibre-Thin.woff') format('woff'),
+        url('../fonts/Calibre-Thin.ttf') format('truetype'),
+        url('../fonts/Calibre-Thin.svg#Calibre-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Calibre Bold';
+    src: url('../fonts/Calibre-Bold.eot');
+    src: url('../fonts/Calibre-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Calibre-Bold.woff2') format('woff2'),
+        url('../fonts/Calibre-Bold.woff') format('woff'),
+        url('../fonts/Calibre-Bold.ttf') format('truetype'),
+        url('../fonts/Calibre-Bold.svg#Calibre-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+

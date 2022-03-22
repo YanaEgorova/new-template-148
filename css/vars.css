@@ -1,0 +1,30 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #f5f4f2;
+  --second-brand-color: #ca9375;
+  --third-brand-color: #2e4c54;
+  --fourth-brand-color: #fbebb6;
+  --fifth-brand-color: #885340;
+  --sixth-brand-color: #808080;
+  --sixth-brand-color: #4d4d4d;
+
+
+  --main-font:  'Calibre';
+  --title-font:  'Calibre Bold';
+
+  font-size: 62.5%;
+}
+
+
+
+
+
