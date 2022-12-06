@@ -204,14 +204,14 @@
         top: 0;
         left: 50%;
         transform: translate( -50%, 0);
-        background-color: #e6e4d9;
+        background-color: var(--fourth-brand-color);
         border-radius: 2rem;
         position: absolute;
         z-index: -1;
-        background-image: url('../img/dots.png');
+        /* background-image: url('../img/dots.png');
         background-repeat: repeat-y;
         background-position: bottom right -3rem;
-        background-size: 30rem;
+        background-size: 30rem; */
     }
     .hero-products .products::after {
         display: block;
@@ -222,7 +222,7 @@
         top: 3rem;
         left: calc(50% + 3rem);
         transform: translate( -50%, 0);
-        background-color: #d7d1c1;
+        background-color: var(--second-brand-color);
         border-radius: 2rem;
         position: absolute;
         z-index: -2;
